@@ -3,7 +3,9 @@ bin-debug/
 bin-release/
 [Oo]bj/
 [Bb]in/
-
+output.css
+input.css
+node_modules
 # Other files and folders
 .settings/
 
